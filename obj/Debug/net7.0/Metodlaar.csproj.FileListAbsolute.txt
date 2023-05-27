@@ -1,0 +1,15 @@
+D:\Patika\Metodlaar\bin\Debug\net7.0\Metodlaar.exe
+D:\Patika\Metodlaar\bin\Debug\net7.0\Metodlaar.deps.json
+D:\Patika\Metodlaar\bin\Debug\net7.0\Metodlaar.runtimeconfig.json
+D:\Patika\Metodlaar\bin\Debug\net7.0\Metodlaar.dll
+D:\Patika\Metodlaar\bin\Debug\net7.0\Metodlaar.pdb
+D:\Patika\Metodlaar\obj\Debug\net7.0\Metodlaar.csproj.AssemblyReference.cache
+D:\Patika\Metodlaar\obj\Debug\net7.0\Metodlaar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\Metodlaar\obj\Debug\net7.0\Metodlaar.AssemblyInfoInputs.cache
+D:\Patika\Metodlaar\obj\Debug\net7.0\Metodlaar.AssemblyInfo.cs
+D:\Patika\Metodlaar\obj\Debug\net7.0\Metodlaar.csproj.CoreCompileInputs.cache
+D:\Patika\Metodlaar\obj\Debug\net7.0\Metodlaar.dll
+D:\Patika\Metodlaar\obj\Debug\net7.0\refint\Metodlaar.dll
+D:\Patika\Metodlaar\obj\Debug\net7.0\Metodlaar.pdb
+D:\Patika\Metodlaar\obj\Debug\net7.0\Metodlaar.genruntimeconfig.cache
+D:\Patika\Metodlaar\obj\Debug\net7.0\ref\Metodlaar.dll
